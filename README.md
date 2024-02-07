@@ -1,2 +1,2 @@
-#Intermediate-Github-Test-Repo
+# Intermediate-Github-Test-Repo
 Used for study purposes. Not a real project
